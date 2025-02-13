@@ -12,6 +12,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 _yes_ 1 pt: All expected attributes for `Computer` class are present
 
 _yes? (comment)_ 1 pt: All expected methods for `Computer` class are present
+
 (no methods/functions was an intentional choice, as I couldn't think of a function the computer objects should reasonably handle)
 
 _yes_ 1 pt: Constructor for `Computer` class is present and sets attributes correctly
