@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I had a tougher time than I thought with this assignment. Starting was the hardest part—I would definitely recommend starting with psuedocode on a whiteboard, pen and paper, whatever works for you. I got a little too gung-ho and wanted to start coding immediately and found I had no idea where to start. I ended up drafting out all the parts for my OOP blueprints on paper to begin with, deciding which tasks belong to which class. I determined that the resale shop is what would be doing all of the buying and selling, but the computers themselves can record their operating system, specs, etc. Figuring out how to call the computer class correctly was also a bit tricky, but once I finally caught on, the rest of the assignment went well. I'd also advise other students to make use of the resources given to them: namely, main.py and the procedural resale shop. I was able to copy and modify some of those code snippets, which gave me a better starting point than a mostly blank file.
