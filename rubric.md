@@ -9,44 +9,44 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ### Level 1 (3 pts)
 
-_yes_ 1 pt: All expected attributes for `Computer` class are present
+**YES** 1 pt: All expected attributes for `Computer` class are present
 
-_yes? (comment)_ 1 pt: All expected methods for `Computer` class are present
+**YES? (comment below)** 1 pt: All expected methods for `Computer` class are present
 
-(no methods/functions was an intentional choice, as I couldn't think of a function the computer objects should reasonably handle)
+*(no methods/functions was an intentional choice, as I couldn't think of a function the computer objects should reasonably handle)*
 
-_yes_ 1 pt: Constructor for `Computer` class is present and sets attributes correctly
+**YES** 1 pt: Constructor for `Computer` class is present and sets attributes correctly
 
 ### Level 2 (3 pts)
 
-_yes_ 1 pt: All expected attributes for `ResaleShop` class are present
+**YES** 1 pt: All expected attributes for `ResaleShop` class are present
 
-_yes_ 1 pt: All expected methods for `ResaleShop` class are present
+**YES** 1 pt: All expected methods for `ResaleShop` class are present
 
-_yes_ 1 pt: Constructor for `ResaleShop` class is present and sets attributes correctly
+**YES** 1 pt: Constructor for `ResaleShop` class is present and sets attributes correctly
 
 ### Level 3 (4 pts)
 
-_yes_ 1 pt: Can successfully add a new `Computer` to the inventory
+**YES** 1 pt: Can successfully add a new `Computer` to the inventory
 
-_yes_ 1 pt: Can successfully remove a `Computer` from the inventory
+**YES** 1 pt: Can successfully remove a `Computer` from the inventory
 
-_yes_ 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory
+**YES** 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory
 
-_yes_ 1 pt: Program prints appropriate error messages
+**YES** 1 pt: Program prints appropriate error messages
 
 ## General Items (10 pts):
 
-_yes_ 4 pts: Program executes fully & consistently without crashing (exception/freeze)
+**YES** 4 pts: Program executes fully & consistently without crashing (exception/freeze)
 
-_yes_ 1 pt: Classes & class members all have header comments
+**YES** 1 pt: Classes & class members all have header comments
 
-_yes_ 1 pt: Clear and consistent indentation
+**YES** 1 pt: Clear and consistent indentation
 
-_yes_ 1 pt: Adheres to conventions on naming / capitalization
+**YES** 1 pt: Adheres to conventions on naming / capitalization
 
-_yes_ 1 pt: Methods and variables all have clear and descriptive names
+**YES** 1 pt: Methods and variables all have clear and descriptive names
 
-_yes_ 1 pt: All required files included with submission (including completed checklist file)
+**YES** 1 pt: All required files included with submission (including completed checklist file)
 
-_yes_ 1 pt: `reflection.md` contains your reflection on the assignment
+**yes** 1 pt: `reflection.md` contains your reflection on the assignment
